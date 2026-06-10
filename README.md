@@ -21,13 +21,13 @@ stored procedures that drive each step of the business process.
 
 ## Demo
 
-**▶️ Live Demo — Running the Stored Procedures in MySQL**
+**Live Demo — Running the Stored Procedures in MySQL**
 Watch the procedures execute against the database and walk through how each is used in its
 business case scenario.
 
 ▶️ **[Watch the Live Demo on YouTube](https://youtu.be/r3EAzu2SmHo)**
 
-**📐 Design & Database Planning Walkthrough**
+**Design & Database Planning Walkthrough**
 A walkthrough of the application mockups and the database design behind them.
 
 📐 **[Watch the Design & Planning Walkthrough on YouTube](https://youtu.be/Sog2CKRYgYI)**
