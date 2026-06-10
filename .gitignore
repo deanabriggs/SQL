@@ -1,5 +1,5 @@
 # Excel/Office temp lock files
 ~$*
 
-# Large video (exceeds GitHub 100MB limit)
-video demo of design.mkv
+# Local documentation/assets (not for the repo)
+docs/
