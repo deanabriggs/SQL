@@ -1,6 +1,6 @@
 # Customer Quote Application — MySQL Database
 
-> **Skills:** MySQL · Relational Schema Design · Normalization · Stored Procedures · Transactions & Error Handling · Many-to-Many Modeling · Indexing & Constraints
+> **Skills:** MySQL · Relational Schema Design · Normalization · Stored Procedures · Transactions & Error Handling · Joins (incl. `CROSS JOIN`) · Many-to-Many Modeling · Indexing & Constraints
 
 A relational database designed in **MySQL** to power a customer quoting application for a
 security and surveillance equipment installation business. The database models the entire
@@ -113,7 +113,7 @@ _Design mockup: the final printable customer quote._
 - Stored procedures with `IN`/`OUT` parameters
 - Transactions (`START TRANSACTION` / `COMMIT`) for safe multi-step inserts
 - Conditional logic (`IF`/`ELSE`), declared variables, and duplicate-prevention checks
-- Multi-table `JOIN`s, aggregation, and temporary tables
+- Multi-table `JOIN`s, including a `CROSS JOIN` to seed the equipment/feature junction table, plus aggregation and temporary tables
 - Use of `LAST_INSERT_ID()` to chain related inserts
 
 ## Tech Stack
